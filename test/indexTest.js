@@ -52,7 +52,7 @@ describe('index.js', function () {
           hometown: 'Pittsburgh' },
         {
           name: 'Sammy',
-          hometown: 'New York' } ,
+          hometown: 'New York City' } ,
         {
           name: 'Sally',
           hometown: 'Cleveland' },
